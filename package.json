@@ -32,6 +32,6 @@
         "react-app-rewire-postcss": "3.0.2",
         "react-app-rewired": "2.1.0",
         "react-hot-loader": "4.6.5",
-        "react-scripts": "2.1.5"
+        "react-scripts": "5.0.1"
     }
 }
